@@ -1,6 +1,6 @@
 
 
-<<h1 align="center">Olá, eu sou a Júlia! 👋</h1>
+<h1 align="center">Olá, eu sou a Júlia! 👋</h1>
 
 ---
 
