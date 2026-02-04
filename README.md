@@ -6,7 +6,7 @@
 
 ## 💖 Sobre mim  
 ✨ Criativa por natureza e apaixonada por **design e tecnologia**.  
-👩‍💻 Estudante de **Ciência da Computação (5º semestre)**, sempre explorando como unir **código + estética** para criar coisas únicas.  
+👩‍💻 Estudante de **Ciência da Computação (6º semestre)**, sempre explorando como unir **código + estética** para criar coisas únicas.  
 🎨 Gosto de transformar ideias em algo visual e funcional — seja em **UX/UI**, **projetos web**.  
 🚀 Acredito que o futuro pertence a quem mistura arte com inovação.  
 
