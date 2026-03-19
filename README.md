@@ -60,17 +60,17 @@
   <tr>
     <td><a href="https://github.com/Julia-Gabriela/SOS_Mulher_Segura"><b>SOS_Mulher_Segura</b></a></td>
     <td>Sistema de denúncia</td>
-    <td><img src="https://img.shields.io/badge/PYTHON-FF2D95?style=for-the-badge&logo=python&logoColor=white" width="120"/></td>
+    <td><img src="https://img.shields.io/badge/PYTHON%20%20%20-FF2D95?style=for-the-badge&logo=python&logoColor=white"/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Julia-Gabriela/Fixsi"><b>FixSI</b></a></td>
     <td>Sistema de serviços diversos</td>
-    <td><img src="https://img.shields.io/badge/PYTHON-FF2D95?style=for-the-badge&logo=python&logoColor=white" width="120"/></td>
+    <td><img src="https://img.shields.io/badge/PYTHON%20%20%20-FF2D95?style=for-the-badge&logo=python&logoColor=white"/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Julia-Gabriela/Defesa_Civil"><b>DefesaCivil</b></a></td>
     <td>Projeto em Java</td>
-    <td><img src="https://img.shields.io/badge/JAVA-FF2D95?style=for-the-badge&logo=openjdk&logoColor=white" width="120"/></td>
+    <td><img src="https://img.shields.io/badge/JAVA%20%20%20%20%20-FF2D95?style=for-the-badge&logo=openjdk&logoColor=white"/></td>
   </tr>
 </table>
 
