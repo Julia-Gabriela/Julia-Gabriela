@@ -51,11 +51,13 @@
 
 ## 🚀 Projetos em Destaque  
 
+## 🚀 Projetos em Destaque  
+
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| **SOS_Mulher_Segura** | Sistema de denúncia | ![Python](https://img.shields.io/badge/Python-FF2D95?style=for-the-badge&logo=python&logoColor=white) |
-| **DefesaCivil** | Projeto em Java | ![Java](https://img.shields.io/badge/Java-FF2D95?style=for-the-badge&logo=openjdk&logoColor=white) |
-| **Quiz-de-Personagens** | Quiz interativo em JS | ![JS](https://img.shields.io/badge/JavaScript-FF2D95?style=for-the-badge&logo=javascript&logoColor=white) |
+| [**SOS_Mulher_Segura**](https://github.com/Julia-Gabriela/SOS_Mulher_Segura) | Sistema de denúncia | ![Python](https://img.shields.io/badge/PYTHON-FF2D95?style=for-the-badge&logo=python&logoColor=white) |
+| [**FixSI**](https://github.com/Julia-Gabriela/Fixsi) | Sistema de chamados de TI | ![Python](https://img.shields.io/badge/PYTHON-FF2D95?style=for-the-badge&logo=python&logoColor=white) |
+| [**DefesaCivil**](https://github.com/Julia-Gabriela/Defesa_Civil) | Projeto em Java | ![Java](https://img.shields.io/badge/JAVA-FF2D95?style=for-the-badge&logo=openjdk&logoColor=white) |
 
 <p align="center">
   <a href="https://github.com/Julia-Gabriela?tab=repositories">
