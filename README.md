@@ -70,7 +70,7 @@
   <tr>
     <td><a href="https://github.com/Julia-Gabriela/Defesa_Civil"><b>DefesaCivil</b></a></td>
     <td>Projeto em Java</td>
-    <td><img src="https://img.shields.io/badge/JAVA%20%20%20%20%20-FF2D95?style=for-the-badge&logo=openjdk&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/JAVA%20%20%20%20%20%20%20-FF2D95?style=for-the-badge&logo=openjdk&logoColor=white"/></td>
   </tr>
 </table>
 
