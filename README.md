@@ -22,7 +22,7 @@
 ## 🌍 Vamos nos conectar!
 <p align="center">
   <a href="https://www.instagram.com/juh_gabriela24?igsh=MTdqd2U5eGd5Z3h6eg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:juliagabrielagomes09@gmail.com"><img src="https://img.shields.io/badge/-Outlook-FF2D95?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=juliagabrielagomes09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF2D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/juliagabriela8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FF2D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
