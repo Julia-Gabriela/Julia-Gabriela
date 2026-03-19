@@ -51,8 +51,6 @@
 
 ## 🚀 Projetos em Destaque  
 
-## 🚀 Projetos em Destaque  
-
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | [**SOS_Mulher_Segura**](https://github.com/Julia-Gabriela/SOS_Mulher_Segura) | Sistema de denúncia | ![Python](https://img.shields.io/badge/PYTHON-FF2D95?style=for-the-badge&logo=python&logoColor=white&label=%20) |
