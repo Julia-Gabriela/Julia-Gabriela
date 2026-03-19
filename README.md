@@ -51,11 +51,28 @@
 
 ## 🚀 Projetos em Destaque  
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [**SOS_Mulher_Segura**](https://github.com/Julia-Gabriela/SOS_Mulher_Segura) | Sistema de denúncia | ![Python](https://img.shields.io/badge/PYTHON-FF2D95?style=for-the-badge&logo=python&logoColor=white&label=%20) |
-| [**FixSI**](https://github.com/Julia-Gabriela/Fixsi) | Sistema de serviços diversos | ![Python](https://img.shields.io/badge/PYTHON-FF2D95?style=for-the-badge&logo=python&logoColor=white&label=%20) |
-| [**DefesaCivil**](https://github.com/Julia-Gabriela/Defesa_Civil) | Projeto em Java | ![Java](https://img.shields.io/badge/JAVA-FF2D95?style=for-the-badge&logo=openjdk&logoColor=white&label=%20%20%20) |
+<table>
+  <tr>
+    <th>Projeto</th>
+    <th>Descrição</th>
+    <th>Tecnologias</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Julia-Gabriela/SOS_Mulher_Segura"><b>SOS_Mulher_Segura</b></a></td>
+    <td>Sistema de denúncia</td>
+    <td><img src="https://img.shields.io/badge/PYTHON-FF2D95?style=for-the-badge&logo=python&logoColor=white" width="120"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Julia-Gabriela/Fixsi"><b>FixSI</b></a></td>
+    <td>Sistema de serviços diversos</td>
+    <td><img src="https://img.shields.io/badge/PYTHON-FF2D95?style=for-the-badge&logo=python&logoColor=white" width="120"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Julia-Gabriela/Defesa_Civil"><b>DefesaCivil</b></a></td>
+    <td>Projeto em Java</td>
+    <td><img src="https://img.shields.io/badge/JAVA-FF2D95?style=for-the-badge&logo=openjdk&logoColor=white" width="120"/></td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/Julia-Gabriela?tab=repositories">
