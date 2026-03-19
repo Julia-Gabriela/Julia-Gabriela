@@ -57,7 +57,7 @@
 |---------|-----------|-------------|
 | [**SOS_Mulher_Segura**](https://github.com/Julia-Gabriela/SOS_Mulher_Segura) | Sistema de denúncia | ![Python](https://img.shields.io/badge/PYTHON-FF2D95?style=for-the-badge&logo=python&logoColor=white) |
 | [**FixSI**](https://github.com/Julia-Gabriela/Fixsi) | Sistema de serviços diversos | ![Python](https://img.shields.io/badge/PYTHON-FF2D95?style=for-the-badge&logo=python&logoColor=white) |
-| [**DefesaCivil**](https://github.com/Julia-Gabriela/Defesa_Civil) | Projeto em Java | ![Java](https://img.shields.io/badge/JAVA-FF2D95?style=for-the-badge&logo=openjdk&logoColor=white) |
+| [**DefesaCivil**](https://github.com/Julia-Gabriela/Defesa_Civil) | Projeto em Java | ![Java](https://img.shields.io/badge/JAVA%20%20-FF2D95?style=for-the-badge&logo=openjdk&logoColor=white) |
 
 <p align="center">
   <a href="https://github.com/Julia-Gabriela?tab=repositories">
