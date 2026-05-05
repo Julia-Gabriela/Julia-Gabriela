@@ -1,25 +1,25 @@
 
 
-<h1 align="center">Olá, eu sou a Júlia! 👋</h1>
+<h1 align="center">➸ Olá, eu sou a Júlia! </h1>
 
 ---
 
-## 💖 Sobre mim  
-✨ Criativa por natureza e apaixonada por **design e tecnologia**.  
-👩‍💻 Estudante de **Ciência da Computação (6º semestre)**, sempre explorando como unir **código + estética** para criar coisas únicas.  
-🎨 Gosto de transformar ideias em algo visual e funcional — seja em **UX/UI**, **projetos web**.  
-🚀 Acredito que o futuro pertence a quem mistura arte com inovação.  
+## ▸ Sobre mim  
+✦ Criativa por natureza e apaixonada por **design e tecnologia**.  
+✦ Estudante de **Ciência da Computação (6º semestre)**, sempre explorando como unir **código + estética** para criar coisas únicas.  
+✦ Gosto de transformar ideias em algo visual e funcional seja em **UX/UI**, **projetos web**.  
+✦ Acredito que o futuro pertence a quem mistura arte com inovação.  
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## ▸ Tecnologias e Ferramentas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,c,java,git,github,vscode,figma,photoshop" />
 </p>
 
 ---
 
-## 🌍 Vamos nos conectar!
+## ▸ Vamos nos conectar!
 <p align="center">
   <a href="https://www.instagram.com/juh_gabriela24" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-FF2D95?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -34,7 +34,7 @@
 
 ---
 
-## 📊 Minhas Estatísticas  
+## ▸ Minhas Estatísticas  
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julia-Gabriela&show_icons=true&theme=radical&count_private=true&hide_border=true"/>
@@ -43,7 +43,7 @@
 
 ---
 
-## 🚀 Projetos em Destaque  
+## ▸ Projetos em Destaque  
 
 <table>
   <tr>
