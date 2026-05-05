@@ -57,14 +57,14 @@
     <td><img src="https://img.shields.io/badge/PYTHON%20%20%20-FF2D95?style=for-the-badge&logo=python&logoColor=white"/></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Julia-Gabriela/Fixsi"><b>FixSI</b></a></td>
-    <td>Sistema de serviços diversos</td>
+    <td><a href="https://github.com/Julia-Gabriela/Projeto_Tradutor_de_Libras.git"><b>Tradutor de libras</b></a></td>
+    <td>Sistema de identificação de libras usando IA</td>
     <td><img src="https://img.shields.io/badge/PYTHON-FF2D95?style=for-the-badge&logo=python&logoColor=white"/></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Julia-Gabriela/Defesa_Civil"><b>DefesaCivil</b></a></td>
-    <td>Projeto em Java</td>
-    <td><img src="https://img.shields.io/badge/JAVA%20%20%20%20%20%20%20-FF2D95?style=for-the-badge&logo=openjdk&logoColor=white"/></td>
+    <td><a href="https://github.com/Julia-Gabriela/Fixsi"><b>FixSI</b></a></td>
+    <td>Sistema de serviços diversos</td>
+    <td><img src="https://img.shields.io/badge/PYTHON-FF2D95?style=for-the-badge&logo=python&logoColor=white"/></td>
   </tr>
 </table>
 
