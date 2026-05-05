@@ -37,12 +37,6 @@
 ## 📊 Minhas Estatísticas  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Julia-Gabriela&label=Visits&color=FF2D95&style=flat" alt="views" />
-  <img src="https://img.shields.io/badge/Repos-48-FF2D95?style=flat" />
-  <img src="https://img.shields.io/badge/Commits%20this%20month-70-FF2D95?style=flat" />
-</p>
-
-<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julia-Gabriela&show_icons=true&theme=radical&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Gabriela&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </p>
