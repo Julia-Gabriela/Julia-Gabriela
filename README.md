@@ -67,6 +67,7 @@
     alt="Sequência de contribuições"
   />
 </p>
+
 ---
 
 ## ▸ Projetos em Destaque  
