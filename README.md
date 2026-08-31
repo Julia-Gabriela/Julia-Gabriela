@@ -50,10 +50,10 @@
 <p align="center">
 
   <img height="170em"
-       src="https://julia-readme-stats.vercel.app/api?username=Julia-Gabriela&show_icons=true&theme=radical&hide_border=true&title_color=ffafcc&icon_color=ffafcc&text_color=ffe5ec"/>
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Julia-Gabriela&theme=radical"/>
 
   <img height="170em"
-       src="https://julia-readme-stats.vercel.app/api/top-langs/?username=Julia-Gabriela&layout=compact&theme=radical&hide_border=true&title_color=ffafcc&text_color=ffe5ec"/>
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Julia-Gabriela&theme=radical"/>
 
 </p>
 <p align="center">
