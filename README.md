@@ -50,10 +50,10 @@
 <p align="center">
 
   <img height="170em"
-       src="https://github-readme-stats.vercel.app/api?username=Julia-Gabriela&show_icons=true&theme=radical&hide_border=true&title_color=ffafcc&icon_color=ffafcc&text_color=ffe5ec"/>
+       src="https://julia-readme-stats.vercel.app/api?username=Julia-Gabriela&show_icons=true&theme=radical&hide_border=true&title_color=ffafcc&icon_color=ffafcc&text_color=ffe5ec"/>
 
   <img height="170em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Gabriela&layout=compact&theme=radical&hide_border=true&title_color=ffafcc&text_color=ffe5ec"/>
+       src="https://julia-readme-stats.vercel.app/api/top-langs/?username=Julia-Gabriela&layout=compact&theme=radical&hide_border=true&title_color=ffafcc&text_color=ffe5ec"/>
 
 </p>
 <p align="center">
