@@ -45,31 +45,33 @@
 
 ---
 
-<details open>
-  <summary><b>Minhas Estatísticas</b></summary>
-  <br>
+## ▸ Minhas Estatísticas  
 
-  <p align="center">
-    <img
-      height="170em"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Julia-Gabriela&theme=radical"
-      alt="Stats"
-    />
-    <img
-      height="170em"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Julia-Gabriela&theme=radical"
-      alt="Top Languages"
-    />
-  </p>
+<p align="center">
 
-  <p align="center">
-    <img
-      height="180em"
-      src="https://streak-stats.demolab.com?user=Julia-Gabriela&theme=radical&hide_border=true&background=0D1117&ring=ffafcc&fire=ffafcc&currStreakLabel=ffafcc&sideLabels=ffe5ec&dates=ffe5ec&sideNums=ffafcc"
-      alt="GitHub Streak"
-    />
-  </p>
-</details>
+  <img
+    height="165em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Julia-Gabriela&theme=github_dark&title_color=ffafcc&text_color=ffe5ec&bg_color=0d1117&border_color=0d1117&icon_color=ffafcc"
+    alt="Estatísticas"
+  />
+
+  <img
+    height="165em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Julia-Gabriela&theme=github_dark&title_color=ffafcc&text_color=ffe5ec&bg_color=0d1117&border_color=0d1117&icon_color=ffafcc&chart_color=ffafcc"
+    alt="Linguagens"
+  />
+
+</p>
+
+<p align="center">
+
+  <img
+    height="165em"
+    src="https://streak-stats.demolab.com?user=Julia-Gabriela&hide_border=true&background=0D1117&stroke=FFAFCC&ring=FFAFCC&fire=FFAFCC&currStreakNum=FFAFCC&sideNums=FFAFCC&currStreakLabel=FFAFCC&sideLabels=FFE5EC&dates=FFE5EC"
+    alt="Sequência de contribuições"
+  />
+
+</p>
 
 ---
 
