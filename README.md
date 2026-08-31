@@ -47,6 +47,10 @@
 
 ## ▸ Minhas Estatísticas  
 
+<details open>
+<summary><b>Minhas Estatísticas</b></summary>
+<br>
+
 <p align="center">
 
   <img
@@ -63,6 +67,15 @@
        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Julia-Gabriela&theme=radical"/>
 
 </p>
+
+<p align="center">
+
+  <img
+       src="https://streak-stats.demolab.com?user=Julia-Gabriela&theme=radical&hide_border=true"/>
+
+</p>
+
+</details>
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Julia-Gabriela&theme=dark&hide_border=true&stroke=ffafcc&ring=ffafcc&fire=ffafcc&currStreakLabel=ffafcc&sideLabels=ffe5ec&background=0d0d0d"/>
