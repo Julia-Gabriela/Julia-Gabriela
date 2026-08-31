@@ -48,31 +48,25 @@
 ## ▸ Minhas Estatísticas  
 
 <p align="center">
-
   <img
-    height="165em"
+    width="390"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Julia-Gabriela&theme=github_dark&title_color=ffafcc&text_color=ffe5ec&bg_color=0d1117&border_color=0d1117&icon_color=ffafcc"
     alt="Estatísticas"
   />
-
   <img
-    height="165em"
+    width="390"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Julia-Gabriela&theme=github_dark&title_color=ffafcc&text_color=ffe5ec&bg_color=0d1117&border_color=0d1117&icon_color=ffafcc&chart_color=ffafcc"
     alt="Linguagens"
   />
-
 </p>
 
 <p align="center">
-
   <img
-    height="165em"
+    width="520"
     src="https://streak-stats.demolab.com?user=Julia-Gabriela&hide_border=true&background=0D1117&stroke=FFAFCC&ring=FFAFCC&fire=FFAFCC&currStreakNum=FFAFCC&sideNums=FFAFCC&currStreakLabel=FFAFCC&sideLabels=FFE5EC&dates=FFE5EC"
     alt="Sequência de contribuições"
   />
-
 </p>
-
 ---
 
 ## ▸ Projetos em Destaque  
