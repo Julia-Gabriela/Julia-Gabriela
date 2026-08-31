@@ -48,11 +48,14 @@
 ## ▸ Minhas Estatísticas  
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Julia-Gabriela&show_icons=true&theme=radical&hide_border=true&title_color=ffafcc&icon_color=ffafcc&text_color=ffe5ec"/>
-  
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Julia-Gabriela&layout=compact&theme=radical&hide_border=true&title_color=ffafcc&text_color=ffe5ec"/>
-</p>
 
+  <img height="170em"
+       src="https://github-readme-stats.vercel.app/api?username=Julia-Gabriela&show_icons=true&theme=radical&hide_border=true&title_color=ffafcc&icon_color=ffafcc&text_color=ffe5ec"/>
+
+  <img height="170em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Gabriela&layout=compact&theme=radical&hide_border=true&title_color=ffafcc&text_color=ffe5ec"/>
+
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Julia-Gabriela&theme=dark&hide_border=true&stroke=ffafcc&ring=ffafcc&fire=ffafcc&currStreakLabel=ffafcc&sideLabels=ffe5ec&background=0d0d0d"/>
 </p>
