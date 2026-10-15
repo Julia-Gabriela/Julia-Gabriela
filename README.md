@@ -50,21 +50,21 @@
 <p align="center">
   <img
     width="390"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Julia-Gabriela&theme=github_dark&title_color=ffafcc&text_color=ffe5ec&bg_color=0d1117&border_color=0d1117&icon_color=ffafcc"
-    alt="Estatísticas"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Julia-Gabriela&theme=github_dark&title_color=FFAFCC&text_color=F5E6ED&bg_color=00000000&border_color=00000000&icon_color=FFAFCC&chart_color=FFAFCC"
+    alt="Estatísticas do GitHub de Júlia Gabriela"
   />
   <img
     width="390"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Julia-Gabriela&theme=github_dark&title_color=ffafcc&text_color=ffe5ec&bg_color=0d1117&border_color=0d1117&icon_color=ffafcc&chart_color=ffafcc"
-    alt="Linguagens"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Julia-Gabriela&theme=github_dark&title_color=FFAFCC&text_color=F5E6ED&bg_color=00000000&border_color=00000000&icon_color=FFAFCC&chart_color=FFAFCC"
+    alt="Linguagens utilizadas nos meus repositórios"
   />
 </p>
 
 <p align="center">
   <img
-    width="520"
-    src="https://streak-stats.demolab.com?user=Julia-Gabriela&hide_border=true&background=0D1117&stroke=FFAFCC&ring=FFAFCC&fire=FFAFCC&currStreakNum=FFAFCC&sideNums=FFAFCC&currStreakLabel=FFAFCC&sideLabels=FFE5EC&dates=FFE5EC"
-    alt="Sequência de contribuições"
+    width="800"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Julia-Gabriela&theme=github_dark&title_color=FFAFCC&text_color=F5E6ED&bg_color=00000000&border_color=00000000&icon_color=FFAFCC&chart_color=FFAFCC"
+    alt="Atividade do GitHub de Júlia Gabriela"
   />
 </p>
 
