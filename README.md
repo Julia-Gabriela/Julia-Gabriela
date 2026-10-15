@@ -21,7 +21,7 @@
 ---
 
 ## ▸ Sobre mim  
-✦ Estudante de **Ciência da Computação (6º semestre)**  
+✦ Estudante de **Ciência da Computação (7º semestre)**  
 ✦ Apaixonada por **design + tecnologia**  
 ✦ Foco em criar experiências **visuais, intuitivas e funcionais**  
 ✦ Interesse em projetos com **impacto social e acessibilidade**  
