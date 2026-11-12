@@ -1,9 +1,20 @@
 name: Generate Snake
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/snake.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-snake
 
 jobs:
   generate:
@@ -11,18 +22,21 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate github-contribution-grid-snake.svg
+      - name: Generate contribution snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Julia-Gabriela
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#1E5A88&color_dots=#DCEAF5,#BFD4E6,#8EB6D6,#5F8FB8,#1E5A88
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#9CC3E2&color_dots=#0D1117,#1B2A38,#24445F,#5F8FB8,#9CC3E2
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#164E7A&color_dots=#F1F7FC,#DCEAF5,#BFD4E6,#8EB6D6,#5F8FB8
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#C6E4FA&color_dots=#1B2A38,#24445F,#3C6284,#5F8FB8,#8EB6D6
 
-      - name: Push snake to output branch
+      - name: Publish snake SVGs to output
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
+          allow_empty_commit: false
+          jekyll: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
