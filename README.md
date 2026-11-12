@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./assets/banner-linkedin.png" alt="Banner Júlia Gabriela" width="100%"/>
-
-<br/><br/>
-
 <h1>✦ Olá, eu sou a Júlia Gabriela!</h1>
 
 <picture>
@@ -26,11 +22,9 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="./assets/divisor-botanico-superior.png" alt="Divisor botânico" width="100%"/>
-</div>
+<p align="center">
+  <img src="./divisor-botanico-superior.png" alt="" width="440" />
+</p>
 
 ---
 
@@ -296,10 +290,6 @@ Experiência na otimização de rotinas acadêmicas, elaboração de consultas *
 </div>
 
 ---
-
-<div align="center">
-  <img src="./assets/divisor-botanico-inferior.png" alt="Divisor botânico" width="100%"/>
-</div>
 
 ## ▸ Vamos nos conectar!
 
