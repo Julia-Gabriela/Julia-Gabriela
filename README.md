@@ -2,14 +2,15 @@
 
 <h1>✦ Olá, eu sou a Júlia Gabriela!</h1>
 
-<img align="left" width="16%" src="./ramo-botanico-esquerdo.png" alt="" />
-<img align="right" width="16%" src="./ramo-botanico-direito.png" alt="" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=21&pause=1200&color=9CC3E2&center=true&vCenter=true&width=540&lines=UX%2FUI+Design+%7C+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Intelig%C3%AAncia+Artificial+%26+Dados;Desenvolvimento+%26+Automa%C3%A7%C3%A3o" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=21&pause=1200&color=1E5A88&center=true&vCenter=true&width=540&lines=UX%2FUI+Design+%7C+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Intelig%C3%AAncia+Artificial+%26+Dados;Desenvolvimento+%26+Automa%C3%A7%C3%A3o" />
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=21&pause=1200&color=1E5A88&center=true&vCenter=true&width=540&lines=UX%2FUI+Design+%7C+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Intelig%C3%AAncia+Artificial+%26+Dados;Desenvolvimento+%26+Automa%C3%A7%C3%A3o" alt="UX/UI, Ciência da Computação, IA, Dados e Automação" width="64%" />
-</picture>
+<p>
+  <img align="left" width="14%" src="./ramo-botanico-esquerdo.png" alt="" />
+  <img align="right" width="14%" src="./ramo-botanico-direito.png" alt="" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=21&pause=1200&color=9CC3E2&center=true&vCenter=true&width=540&lines=UX%2FUI+Design+%7C+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Intelig%C3%AAncia+Artificial+%26+Dados;Desenvolvimento+%26+Automa%C3%A7%C3%A3o" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=21&pause=1200&color=1E5A88&center=true&vCenter=true&width=540&lines=UX%2FUI+Design+%7C+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Intelig%C3%AAncia+Artificial+%26+Dados;Desenvolvimento+%26+Automa%C3%A7%C3%A3o" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=21&pause=1200&color=1E5A88&center=true&vCenter=true&width=540&lines=UX%2FUI+Design+%7C+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Intelig%C3%AAncia+Artificial+%26+Dados;Desenvolvimento+%26+Automa%C3%A7%C3%A3o" alt="UX/UI, Ciência da Computação, IA, Dados e Automação" width="56%" />
+  </picture>
+</p>
 
 <p><i>✦ Design e código para transformar ideias em soluções digitais.</i></p>
 
@@ -24,8 +25,6 @@
 </a>
 
 </div>
-
----
 
 ## ▸ Sobre mim
 
